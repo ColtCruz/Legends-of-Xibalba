@@ -32,7 +32,8 @@ python main.py
 
 📁 Project Structure
 
-LegendsOfXibalba/
+LegendsOfXibalba
+
 ├── main.py             # Game entry point and main loop
 
 ├── narrator.py         # Vucub-Came's narration and lore

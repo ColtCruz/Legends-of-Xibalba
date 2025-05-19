@@ -34,10 +34,15 @@ python main.py
 
 LegendsOfXibalba/
 ├── main.py             # Game entry point and main loop
+
 ├── narrator.py         # Vucub-Came's narration and lore
+
 ├── player.py           # Player character setup and attributes
+
 ├── trials.py           # The Houses and their gameplay logic
+
 ├── defines.py          # Constants and utility helpers
+
 ├── README.md           # Game overview and setup
 
 📚 Inspiration
